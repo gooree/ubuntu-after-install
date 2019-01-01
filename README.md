@@ -32,7 +32,7 @@ Things to do after installing ubuntu system
 - Eclipse
 - SmartGit
 
-# 下载工具
+## 下载工具
 
 - Transmission
 - Aria2
